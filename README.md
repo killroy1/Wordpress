@@ -53,7 +53,7 @@ This is meant to be run in your local device, please do note i meantion that in 
 ![Mywordypreskrod](https://github.com/user-attachments/assets/efb96462-f67d-491a-9f90-e1fa74409290)
 
 
-
+---
 ### **Persistence**
 - **WordPress Content:**
   - WordPress content (e.g., uploads, themes, plugins) is stored on an NFS share mounted to `/var/www/html`. This ensures persistence even if the VMSS instances are replaced.
